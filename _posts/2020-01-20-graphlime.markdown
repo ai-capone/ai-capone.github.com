@@ -7,4 +7,4 @@ categories: graphneuralnetworks
 
 
 
-[https://arxiv.org/abs/2001.06216](ArXiv 2001.06216)
+[ArXiv 2001.06216](https://arxiv.org/abs/2001.06216)
