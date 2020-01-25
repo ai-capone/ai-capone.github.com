@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Dataset Search"
-date:   2020-01-25 19:22:31 +0100
-categories: data traingsets
+date:   2020-01-24 19:22:31 +0100
+categories: [data, dataset, traingset]
 ---
 
 Google has release __Dataset Search__
